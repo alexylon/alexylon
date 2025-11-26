@@ -1,10 +1,16 @@
 ### Profile summary
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexylon&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexylon&theme=github">
-  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexylon&theme=github">
-</picture>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexylon&theme=github_dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexylon&theme=github">
+        <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexylon&theme=github">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <table width="100%">
   <tr>
