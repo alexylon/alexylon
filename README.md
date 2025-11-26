@@ -1,7 +1,8 @@
 ### Profile summary
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexylon&theme=github_dark)
+![Profile Details (Light)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexylon&theme=github#gh-light-mode-only)
+![Profile Details (Dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexylon&theme=github_dark#gh-dark-mode-only)
 
 
-| ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexylon&theme=github_dark) | ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexylon&theme=github_dark) |
+| ![Top Languages by Repo (Light)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexylon&theme=github#gh-light-mode-only) ![Top Languages by Repo (Dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexylon&theme=github_dark#gh-dark-mode-only) | ![Top Languages by Commit (Light)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexylon&theme=github#gh-light-mode-only) ![Top Languages by Commit (Dark)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexylon&theme=github_dark#gh-dark-mode-only) |
 | --- | --- |
